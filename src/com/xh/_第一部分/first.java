@@ -14,6 +14,6 @@ public class first {
         java.util.Scanner s=new java.util.Scanner(System.in);
         String userInputContent=s.next();
         System.out.println(userInputContent);
-        //System.out.println("HelloWorld");
+        System.out.println("HelloWorld");
     }
 }

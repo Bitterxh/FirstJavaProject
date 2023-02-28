@@ -24,8 +24,7 @@ public class U {
     }
     public static void p(float i ){
         System.out.println(i);
-    }public static void p(double i ){
-        System.out.println(i);
     }
-
+    public static void p(double i ){ System.out.println(i);
+    }
 }
