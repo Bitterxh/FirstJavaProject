@@ -15,5 +15,9 @@ public class first {
         String userInputContent=s.next();
         System.out.println(userInputContent);
         System.out.println("HelloWorld");
+        System.out.println("HelloWorld");
+        System.out.println("HelloWorld");
+        System.out.println("HelloWorld");
+
     }
 }
