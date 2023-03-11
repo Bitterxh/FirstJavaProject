@@ -12,7 +12,7 @@ public class NnTable_recursion {
             cont(num-1);
             //退出递归调用的条件
             for (int i=1;i<=num;i++){
-                System.out.print(num+"x"+i+"="+i*num+"  ");
+                System.out.print(i+"x"+num+"="+i*num+"  ");
             }
             System.out.println("");
         }
