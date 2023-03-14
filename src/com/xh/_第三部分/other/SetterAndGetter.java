@@ -1,4 +1,4 @@
-package com.xh._第三部分;
+package com.xh._第三部分.other;
 
 public class SetterAndGetter {
     //成员变量是私有的

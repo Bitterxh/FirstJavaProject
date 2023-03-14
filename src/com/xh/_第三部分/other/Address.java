@@ -1,14 +1,16 @@
-package com.xh._第三部分;
+package com.xh._第三部分.other;
 
 public class Address {
     String city;
     String street;
     String postcode;
 
+    //有参构造
     public Address(String postcode) {
         this.postcode = postcode;
     }
 
+    //无参构造，默认自动生成
     public Address() {
     }
 
